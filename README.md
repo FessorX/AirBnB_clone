@@ -9,8 +9,7 @@ This first step consists of a custom command-line interface for
 
 ## Environment
 
-This project is interpreted/tested on Ubuntu 20.04 LTS using python3 (version 3.4.3)
-
+This project is interpreted/tested on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 ## Installation
 
 - Clone this repository: git clone "https://github.com/fessorx/AirBnB_clone.git"
